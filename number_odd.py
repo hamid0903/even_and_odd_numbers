@@ -3,7 +3,7 @@
 #Create a variable "var_int" and assign it a four-digit integer value.
 
 #Print the number of odd digits in the variable "var_int".
-var_int=9371
+var_int=9373
 
 n1=var_int%10
 var_int//=10
