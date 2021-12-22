@@ -5,7 +5,7 @@
 #Create a variable "sum_even" and assign it 0.
 
 #Find the sum of the even digits in the variable "var_int".
-var_int=8234
+var_int=8236
 
 n1=var_int%10
 var_int//=10
