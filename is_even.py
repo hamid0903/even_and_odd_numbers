@@ -2,4 +2,4 @@
 
 #Print 1 if the number is even, otherwise print 0.
 number=43
-print(number%2)
+print(number%2-1)
